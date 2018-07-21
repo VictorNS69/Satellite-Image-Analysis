@@ -1,4 +1,4 @@
-# Satellite-Image-Analysis
+# Satellite Image Analysis
 
 A small jupyter notebook using numpy to work with a satellite image.
 
